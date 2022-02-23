@@ -1,2 +1,3 @@
-# DIO-desafio-github-orimeiro-repositorio
-Desafio de Projeto sobre git/github
+# Desafio de projeto sobre Git/github da DIO
+Repositório criado para o Desafio de projeto
+
